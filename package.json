@@ -1,0 +1,14 @@
+{
+  "name": "coffee-checkout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coffee_checkout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
+}
